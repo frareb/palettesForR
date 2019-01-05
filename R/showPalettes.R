@@ -1,6 +1,6 @@
 #' Show a palette.
 #' @param myPal The palette name.
-#' @details adapted from http://www.r-graph-gallery.com/42-colors-names/
+#' @details Adapted from http://www.r-graph-gallery.com/42-colors-names/
 #' @examples 
 #' data(Caramel_gpl)
 #' showPalette(myPal = Caramel_gpl)

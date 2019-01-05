@@ -13,7 +13,7 @@ showPalette(myPal)
 Show a palette.
 }
 \details{
-adapted from http://www.r-graph-gallery.com/42-colors-names/
+Adapted from http://www.r-graph-gallery.com/42-colors-names/
 }
 \examples{
 data(Caramel_gpl)
