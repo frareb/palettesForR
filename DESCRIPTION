@@ -1,0 +1,15 @@
+Package: palettesForR
+Type: Package
+Title: GPL Palettes Copied from Gimp and Inkscape
+Version: 0.1.0
+Authors@R: c(
+    person("Francois", "Rebaudo", role = c("aut", "cre"),  
+      email = "francois.rebaudo@ird.fr"))
+Author: Francois Rebaudo [aut, cre]
+Maintainer: Francois Rebaudo <francois.rebaudo@ird.fr>
+Description: A set of palettes imported from other sources (Gimp; Inkscape).
+License: GPL-2
+LazyData: TRUE
+RoxygenNote: 6.1.1
+Suggests: knitr,
+    rmarkdown
