@@ -13,8 +13,8 @@ Authors@R: c(
 Maintainer: Francois Rebaudo <francois.rebaudo@ird.fr>
 URL: https://github.com/frareb/palettesForR
 Description: A set of palettes imported from Gimp distributed 
-  under GPL3 (https://www.gimp.org/about/COPYING), and Inkscape 
-  distributed under GPL2 (https://inkscape.org/about/license/).
+  under GPL3 (<https://www.gimp.org/about/COPYING>), and Inkscape 
+  distributed under GPL2 (<https://inkscape.org/about/license/>).
 License: GPL-2
 LazyData: TRUE
 RoxygenNote: 6.1.1
